@@ -52,7 +52,7 @@ SyncSnip is your one-stop solution for web development, content writing, SEO man
 
 - *Website* 🌐: [syncsnip.netlify.app](http://syncsnip.netlify.app)
 - *Email* 📧: syncsnip@outlook.com
-- *Phone* 📞: +91-9310708784
+- *Phone* 📞: [+91-9310708784](tel:+91-9310708784)
 <div align="center">
 
 [Website](https://syncsnip.netlify.app/) • 
